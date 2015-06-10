@@ -1,0 +1,23 @@
+{
+  "name": "flexy.css",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ConnorAtherton/flexy",
+  "authors": [
+    "Connor Atherton <c.liam.atherton@gmail.com>"
+  ],
+  "description": "A sexy flexbox css framework.",
+  "main": "dist/flexy.css",
+  "keywords": [
+    "flexybox",
+    "flexy",
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

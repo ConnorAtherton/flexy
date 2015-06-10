@@ -1,0 +1,24 @@
+{
+  "name": "flexy.css",
+  "version": "0.1.0",
+  "description": "A sexy flexbox css framework.",
+  "main": "dist/flexy.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnorAtherton/flexy.git"
+  },
+  "keywords": [
+    "flexybox",
+    "flexy",
+    "css"
+  ],
+  "author": "Connor Atherton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConnorAtherton/flexy/issues"
+  },
+  "homepage": "https://github.com/ConnorAtherton/flexy#readme"
+}
